@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Billabong';
+    src: url('ruta/de/tu/font/Billabong.ttf') format('truetype');
+  }
+  
+  .instagram-logo {
+    font-family: 'Billabong', cursive;
+    /* Aquí puedes añadir otros estilos según lo necesites */
+  }
